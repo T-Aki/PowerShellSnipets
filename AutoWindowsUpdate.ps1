@@ -1,0 +1,1 @@
+Get-WUInstall –MicrosoftUpdate –AcceptAll –AutoReboot | Stop-Computer
