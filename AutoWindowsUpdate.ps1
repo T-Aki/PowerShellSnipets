@@ -1,5 +1,5 @@
-# 手動版
+# intaractive 対話式
 Install-WindowsUpdate;
 
-# 全自動版
+# automated 全自動版
 #Get-WindowsUpdate –AcceptAll –AutoReboot;
